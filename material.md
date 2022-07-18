@@ -36,9 +36,9 @@
 
 # 기타
 
-- [디노이징 AutoEncoder](material/deep_learning/denoising_autoencoder.ipynb)
+- [디노이징 AutoEncoder](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
 - [흥미로운 딥러닝 결과](material/deep_learning/some_interesting_deep_learning.pptx)
-- [yolo를 사용한 실시간 불량품 탐지 사례](material/deep_learning/yolo_in_field.mp4)
+- [yolo를 사용한 실시간 불량품 탐지 사례](https://drive.google.com/file/d/194UpsjG7MyEvWlmJeqfcocD-h-zy_4mR/view?usp=sharing)
 - [GAN을 사용한 생산설비 이상 탐지](material/deep_learning/anomaly_detection_using_gan.pptx)
 - [이상탐지 동영상](material/deep_learning/drillai_anomaly_detect.mp4)
 
