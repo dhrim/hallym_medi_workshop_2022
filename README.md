@@ -68,10 +68,8 @@
     - DNN in Keras : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_in_keras.ipynb)
     - Keras 요약 [keras_in_short.md](material/deep_learning/keras_in_short.md)
 - DNN as classifier
-    - IRIS
-        - [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_iris_classification.ipynb)
-        - [dnn_iris_with_category_index.ipynb](./material/deep_learning/dnn_iris_with_category_index.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_iris_with_category_index.ipynb)
-    - 흑백 영상 데이터 MNIST 분류 실습 : [dnn_mnist.ipynb](./material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_mnist.ipynb)
+    - 송성 데이터 IRIS 분류 : [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_iris_classification.ipynb)
+    - 흑백 영상 데이터 MNIST 분류 : [dnn_mnist.ipynb](./material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_mnist.ipynb)
 
 - CNN
     - CNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
