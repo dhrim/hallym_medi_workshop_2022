@@ -84,11 +84,6 @@
     - AutoEncoder 실습 : [autoencoder.ipynb](./material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/autoencoder.ipynb)
     - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](./material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/denoising_autoencoder.ipynb)
     - Super Resolution : [mnist_super_resolution.ipynb](./material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/mnist_super_resolution.ipynb)
-
-- Object Detection : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/keras_yolov3.ipynb)
-
-- RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/rnn_text_classification.ipynb)
-
 <br>
 
 - [딥러닝 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
@@ -103,6 +98,9 @@
 - [GAN을 사용한 생산설비 이상 탐지](material/deep_learning/anomaly_detection_using_gan.pptx)
 - [딥러닝 이상탐지](./material/deep_learning/deep_learning_anomaly_detection.pptx)
 - [이상탐지 동영상](material/deep_learning/drillai_anomaly_detect.mp4)
+- Object Detection : [keras_yolov3.ipynb](keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/keras_yolov3.ipynb)
+- RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/rnn_text_classification.ipynb)
+
 
 
 <br>
