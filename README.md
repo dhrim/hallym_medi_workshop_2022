@@ -66,6 +66,7 @@
     - 알파고 이해하기 : [understanding_alphago.pptx](material/deep_learning/understanding_alphago.pptx)
 
 - Keras
+    - DNN in Keras : [dnn_in_keras_minimum.ipynb](./material/deep_learning/dnn_in_keras_minimum.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_in_keras_minimum.ipynb)
     - Keras 요약 [keras_in_short.md](material/deep_learning/keras_in_short.md)
 
 - DNN as classifier
