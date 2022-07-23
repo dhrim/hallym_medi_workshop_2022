@@ -64,19 +64,30 @@
 - 딥러닝 개요
     - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
     - 알파고 이해하기 : [understanding_alphago.pptx](material/deep_learning/understanding_alphago.pptx)
+
 - Keras
-    - DNN in Keras : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_in_keras.ipynb)
     - Keras 요약 [keras_in_short.md](material/deep_learning/keras_in_short.md)
+
 - DNN as classifier
     - 속성 데이터 IRIS 분류 : [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_iris_classification.ipynb)
     - 흑백 영상 데이터 MNIST 분류 : [dnn_mnist.ipynb](./material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/dnn_mnist.ipynb)
+
+- 속성 데이터 템플릿
+
+    - 속성 데이터 분류 템플릿 : [template_attribute_data_classification.ipynb](./material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_attribute_data_classification.ipynb)
+    - 속성 데이터 회귀 템플릿 : [template_attribute_data_regression.ipynb](./material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_attribute_data_regression.ipynb)
 
 - CNN
     - CNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
     - 흑백 영상 데이터 MNIST 영상분류 : [cnn_mnist.ipynb](./material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/cnn_mnist.ipynb)
     - CIFAR10 컬러영상분류 : [cnn_cifar10.ipynb](./material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/cnn_cifar10.ipynb)
 
-- VGG16 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
+    - VGG16 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
+
+- 영상 데이터 템플릿
+
+    - 영상 데이터 전이학습 분류 템플릿 : [template_image_data_transfer_learning_classification.ipynb](./material/deep_learning/template_image_data_transfer_learning_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
+    - 영상 데이터 전이학습 회귀 템플릿 : [template_image_data_transfer_learning_regression.ipynb](./material/deep_learning/template_image_data_transfer_learning_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_transfer_learning_regression.ipynb)
 
 - U-Net Segmentation - Lung data : [unet_segementation.ipynb](./material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/unet_segementation.ipynb)
 
@@ -97,7 +108,42 @@
 - [흥미로운 딥러닝 결과](material/deep_learning/some_interesting_deep_learning.pptx)
 - [yolo를 사용한 실시간 불량품 탐지 사례](https://drive.google.com/file/d/194UpsjG7MyEvWlmJeqfcocD-h-zy_4mR/view?usp=sharing)
 - [GAN을 사용한 생산설비 이상 탐지](material/deep_learning/anomaly_detection_using_gan.pptx)
+- [딥러닝을 사용한 이상탐지](material/deep_learning/deep_learning_anomaly_detection.pptx)
 - [이상탐지 동영상](material/deep_learning/drillai_anomaly_detect.mp4)
+
+
+<br>
+
+# Template
+
+- 속성 데이터
+    - 예측 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_attribute_data_regression.ipynb)
+    - 분류 : [template_attribute_data_classification.ipynb](material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_attribute_data_classification.ipynb)
+    - 2진 분류 : [template_attribute_data_binary_classification.ipynb](material/deep_learning/template_attribute_data_binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_attribute_data_binary_classification.ipynb)    
+- 영상 데이터
+    - 예측 - vanilla CNN : [template_image_data_vanilla_cnn_regression.ipynb](material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
+    - 예측 - 전이학습 : [template_image_data_transfer_learning_regression.ipynb](material/deep_learning/template_image_data_transfer_learning_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_transfer_learning_regression.ipynb)
+    - 분류 - vanilla CNN : [template_image_data_vanilla_cnn_classification.ipynb](material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb)
+    - 분류 - 전이학습 : [template_image_data_transfer_learning_classification.ipynb](material/deep_learning/template_image_data_transfer_learning_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
+    - 2진 분류 - vanilla CNN : [template_image_data_vanilla_cnn_binary_classification.ipynb](material/deep_learning/template_image_data_vanilla_cnn_binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_vanilla_cnn_binary_classification.ipynb)
+    - 2진 분류 - 전이학습 : [template_image_data_transfer_learning_binary_classification.ipynb](material/deep_learning/template_image_data_transfer_learning_binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_image_data_transfer_learning_binary_classification.ipynb)
+- 순차열 데이터
+    - 숫자열
+        - 단일 숫자열 예측 : [template_numeric_sequence_data_prediction.ipynb](material/deep_learning/template_numeric_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_numeric_sequence_data_prediction.ipynb)
+        - 단일 숫자열 분류 : [template_numeric_sequence_data_classification.ipynb](material/deep_learning/template_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_numeric_sequence_data_classification.ipynb)
+        - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
+        - 다중 숫자열 다중 예측 : [template_multi_numeric_sequence_data_multi_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb)
+        - 다중 숫자열 단일 예측 : [template_multi_numeric_sequence_data_one_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb)
+    - 문자열
+        - 문자열 예측 : [template_text_sequence_data_prediction.ipynb](material/deep_learning/template_text_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_text_sequence_data_prediction.ipynb)
+        - 문자열 분류 : [template_text_sequence_data_classification.ipynb](material/deep_learning/template_text_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_text_sequence_data_classification.ipynb)
+        - 문자열 연속 예측 : [template_text_data_sequential_generation.ipynb](material/deep_learning/template_text_data_sequential_generation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_text_data_sequential_generation.ipynb)
+    - 단어열
+        - 단어열 분류 : [template_word_sequence_data_classification.ipynb](material/deep_learning/template_word_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_word_sequence_data_classification.ipynb)
+        - 단어열 예측 : [template_word_sequence_data_prediction.ipynb](material/deep_learning/template_word_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_word_sequence_data_prediction.ipynb)
+        - 한글 단어열 분류 : [template_korean_word_sequence_data_classification.ipynb](material/deep_learning/template_korean_word_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/template_korean_word_sequence_data_classification.ipynb)
+        - Bert를 사용한 한글 문장 간 관계 분류 : [korean_sentence_relation_classification_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb)
+        - Bert를 사용한 한글 문장 간 관계값 예측 : [korean_sentence_relation_regression_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hallym_medi_workshop_2022/blob/main/material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb)
 
 
 <br>
